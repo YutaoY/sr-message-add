@@ -300,7 +300,7 @@ const addOptionClick = () => {
 
 const optionVisibleClick = () => {
   editor.option = [{
-    text: '愿此行，终抵群星'
+    text: ''
   }, {
     text: ''
   }, {
